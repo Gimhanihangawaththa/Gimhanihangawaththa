@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gimhani
 
-💻 Computer Engineering Undergraduate at University of Ruhuna
+💻 Computer Engineering Undergraduate at University of Ruhuna    
 🔐 Interested in Software Engineering, Networking & Information Security  
 
 I am passionate about building secure, scalable systems and exploring how software, networks, and security intersect. I enjoy working on real-world applications, backend systems, and intelligent solutions using AI and IoT.
