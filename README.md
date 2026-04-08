@@ -92,6 +92,7 @@ I am passionate about building secure, scalable systems and exploring how softwa
 ## 📫 Connect With Me
 - Email: gimhani0327@gmail.com  
 - GitHub: https://github.com/Gimhanihangawaththa
+- LinkedIn: https://www.linkedin.com/in/gimhani-hangawaththa-a721b2263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
