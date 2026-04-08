@@ -51,7 +51,8 @@ I am passionate about building secure, scalable systems and exploring how softwa
 ### 🏥 Medilocate – Medicine Availability Finder
 - Designed and deployed a full-stack healthcare platform to locate medicine availability across pharmacies  
 - Implemented containerization and automated deployment pipelines (CI/CD)  
-- **Technologies:** MERN Stack, Docker, Docker Compose, Terraform, AWS EC2, GitHub Actions  
+- **Technologies:** MERN Stack, Docker, Docker Compose, Terraform, AWS EC2, GitHub Actions
+🔗 GitHub:https://github.com/Gimhanihangawaththa/medilocate.git  
 
 ---
 
@@ -59,6 +60,7 @@ I am passionate about building secure, scalable systems and exploring how softwa
 - Developing a full-stack web and mobile system for rental property and roommate matching  
 - Features include intelligent search, map-based navigation, and personalized recommendations  
 - **Technologies:** React.js, Spring Boot, Flutter, MariaDB, Elasticsearch, AWS  
+🔗 GitHub: https://github.com/Gimhanihangawaththa/Bodimkarayo.lk.git 
 
 ---
 
@@ -66,28 +68,24 @@ I am passionate about building secure, scalable systems and exploring how softwa
 - Building a computer vision system to detect human occupancy in large halls and automate devices  
 - Implements zone-based detection for efficient energy management  
 - **Technologies:** Python, OpenCV, YOLO, PyTorch  
-
 ---
 
 ### 📊 Employee Promotion Scoring System
 - Developed a machine learning model to predict employee promotion eligibility using HR data  
 - Performed data preprocessing, feature engineering, and model training  
 - **Technologies:** Python, Pandas, NumPy, Scikit-learn  
-
 ---
 
 ### 🔐 Smart Door Lock – Secure IoT Access Control System
 - Built a Wi-Fi enabled smart door locking system for secure remote access and control  
 - Implemented real-time device communication and access management  
 - **Technologies:** ESP32, Python, Flask, Flutter  
-
 ---
 
 ### 💡 Smart Adaptive Lighting System *(Ongoing)*
 - Designed a microcontroller-based adaptive lighting system for shared environments  
 - Automatically adjusts lighting direction to minimize disturbance  
 - **Technologies:** ESP32, Embedded C/C++, Servo Motor, Bluetooth  
-
 ---
 
 ### 🛒 Community-Driven Smart Shopping Assistant
@@ -95,7 +93,7 @@ I am passionate about building secure, scalable systems and exploring how softwa
 - Supports filtering by price, warranty, and location with community-driven input  
 - Integrated authentication and cloud-based data storage  
 - **Technologies:** Flutter, Firebase Auth, Firestore, Firebase Storage  
-
+🔗 GitHub:
 ---
 
 ## 🎯 Interests
