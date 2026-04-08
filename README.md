@@ -10,7 +10,7 @@ I am passionate about building secure, scalable systems and exploring how softwa
 ## 🔧 Tech Stack
 
 **Programming & Development**
-- Python, JavaScript, Java  
+- Python, JavaScript, Java , C , C++ ,C#
 - React.js, Node.js, Express.js, Spring Boot  
 
 **Networking & Security**
@@ -38,45 +38,63 @@ I am passionate about building secure, scalable systems and exploring how softwa
 
 ## 🚀 Featured Projects
 
+---
+
 ### 🎧 Target Speaker Extraction & Noise Cancellation System
-- Built a deep learning–based system to isolate target speakers in noisy environments  
-- Demonstrates signal processing and intelligent system design  
-**Tech:** Python, Deep Learning, React.js  
+- Built a deep learning–based system to isolate a target speaker and remove background noise in multi-speaker environments  
+- Developed a web interface for real-time interaction and testing  
+- **Technologies:** Python, Deep Learning, React.js, Tailwind CSS
+  🔗 GitHub: (https://github.com/Gimhanihangawaththa/Target-speaker-voice-filtering-project.git)
 
 ---
 
 ### 🏥 Medilocate – Medicine Availability Finder
-- Developed a scalable full-stack system with cloud deployment and CI/CD  
-- Focused on reliability and system architecture  
-**Tech:** MERN Stack, Docker, AWS, Terraform  
+- Designed and deployed a full-stack healthcare platform to locate medicine availability across pharmacies  
+- Implemented containerization and automated deployment pipelines (CI/CD)  
+- **Technologies:** MERN Stack, Docker, Docker Compose, Terraform, AWS EC2, GitHub Actions  
+
+---
+
+### 🏠 Bodimkarayo.lk – Property Matching Platform *(Ongoing)*
+- Developing a full-stack web and mobile system for rental property and roommate matching  
+- Features include intelligent search, map-based navigation, and personalized recommendations  
+- **Technologies:** React.js, Spring Boot, Flutter, MariaDB, Elasticsearch, AWS  
 
 ---
 
 ### 👁️ Occupancy-Based Automated Device Control *(Ongoing)*
-- Computer vision system for detecting human presence and automating devices  
-- Useful for smart environments and efficient resource usage  
-**Tech:** Python, OpenCV, YOLO, PyTorch  
+- Building a computer vision system to detect human occupancy in large halls and automate devices  
+- Implements zone-based detection for efficient energy management  
+- **Technologies:** Python, OpenCV, YOLO, PyTorch  
 
 ---
 
 ### 📊 Employee Promotion Scoring System
-- Machine learning model for prediction using structured data  
-- Demonstrates data processing and decision-support systems  
-**Tech:** Python, Scikit-learn  
+- Developed a machine learning model to predict employee promotion eligibility using HR data  
+- Performed data preprocessing, feature engineering, and model training  
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn  
 
 ---
 
-### 🔐 Smart Door Lock (IoT)
-- Built a secure remote-access system using ESP32 and Wi-Fi  
-- Focus on device communication and access control  
-**Tech:** ESP32, Flask, Flutter  
+### 🔐 Smart Door Lock – Secure IoT Access Control System
+- Built a Wi-Fi enabled smart door locking system for secure remote access and control  
+- Implemented real-time device communication and access management  
+- **Technologies:** ESP32, Python, Flask, Flutter  
 
 ---
 
-### 🏠 Bodimkarayo.lk *(Ongoing)*
-- Full-stack system with advanced search and recommendation features  
-- Focus on backend and scalable architecture  
-**Tech:** React.js, Spring Boot, AWS  
+### 💡 Smart Adaptive Lighting System *(Ongoing)*
+- Designed a microcontroller-based adaptive lighting system for shared environments  
+- Automatically adjusts lighting direction to minimize disturbance  
+- **Technologies:** ESP32, Embedded C/C++, Servo Motor, Bluetooth  
+
+---
+
+### 🛒 Community-Driven Smart Shopping Assistant
+- Developed a mobile application for comparing electronic product deals  
+- Supports filtering by price, warranty, and location with community-driven input  
+- Integrated authentication and cloud-based data storage  
+- **Technologies:** Flutter, Firebase Auth, Firestore, Firebase Storage  
 
 ---
 
