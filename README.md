@@ -43,8 +43,8 @@ I am passionate about building secure, scalable systems and exploring how softwa
 ### 🎧 Target Speaker Extraction & Noise Cancellation System
 - Built a deep learning–based system to isolate a target speaker and remove background noise in multi-speaker environments  
 - Developed a web interface for real-time interaction and testing  
-- **Technologies:** Python, Deep Learning, React.js, Tailwind CSS
-  🔗 GitHub: (https://github.com/Gimhanihangawaththa/Target-speaker-voice-filtering-project.git)
+- **Technologies:** Python, Deep Learning, React.js, Tailwind CSS             
+🔗 GitHub: (https://github.com/Gimhanihangawaththa/Target-speaker-voice-filtering-project.git)
 
 ---
 
